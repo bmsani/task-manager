@@ -64,8 +64,8 @@ const Home = () => {
                             <th>Task NO</th>
                             <th>Name</th>
                             <th>Job</th>
-                            <th>Favorite Color</th>
-                            <th>Favorite Color</th>
+                            <th>Action</th>
+                            <th>Remove</th>
                         </tr>
                     </thead>
                     <tbody>
